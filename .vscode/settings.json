@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.mll": "ocaml",
+        "iostream": "cpp",
+        "istream": "cpp"
+    }
+}

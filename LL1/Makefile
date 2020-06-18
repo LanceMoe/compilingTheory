@@ -1,4 +1,4 @@
-CXX=clang++
+CXX=g++
 CFLAGS=-O3 --std=c++11
 SOURCE = LL1.cpp
 DEPS = LL1.h

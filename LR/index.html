@@ -164,7 +164,7 @@
 			function update(local) {
 				var data = $('#grammar').val() + '\n#\n' + $('#indata').val();
 				$.ajax({
-					url: "LR.php",
+					url: "./LR/LR.php",
 					datatype: "json",
 					method: "POST",
 					data: {"data": data},
