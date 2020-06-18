@@ -11,6 +11,7 @@ cd ../LL1
 make
 cd ../LR
 make
+cd ..
 php -S localhost:8000
 ```
 
