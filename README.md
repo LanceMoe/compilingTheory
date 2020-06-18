@@ -1,5 +1,19 @@
 # Introduction
 合肥工业大学编译原理课设。
+
+# Startup
+In Ubuntu 20.04 LTS
+```bash
+yarn install
+cd Lexical
+make
+cd ../LL1
+make
+cd ../LR
+make
+php -S localhost:8000
+```
+
 # Screencast
 ## Lexical
 ![lexical.gif](lexical.gif)
